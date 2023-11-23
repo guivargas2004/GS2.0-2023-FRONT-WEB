@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Felipe",
+      "email": "felipe@felipe",
+      "password": "senha"
+    },
+    {
+      "id": 3,
+      "name": "ryan",
+      "email": "ryan@ryan",
+      "password": "ryan123"
+    },
+    {
+      "id": 4,
+      "name": "Guizao",
+      "email": "jpmarques@gmail.com",
+      "password": "senha"
+    },
+    {
+      "id": 5,
+      "name": "Cansani",
+      "email": "csn@terra.com",
+      "password": "12345"
+    }
+  ]
+}

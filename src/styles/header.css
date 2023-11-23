@@ -1,0 +1,20 @@
+header {
+  width: 100%;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header h1 {
+  font-size: 28px;
+  font-weight: 700;
+}
+header nav {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+header nav p {
+  font-size: 18px;
+  padding: 0 5px;
+}/*# sourceMappingURL=header.css.map */

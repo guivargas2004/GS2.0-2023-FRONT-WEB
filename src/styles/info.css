@@ -1,0 +1,17 @@
+aside {
+  display: flex;
+  flex-direction: column;
+  padding: 1px;
+  gap: 20px;
+}
+aside div {
+  width: 90%;
+  padding: 11px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  border-bottom: 1px solid black;
+}
+aside p {
+  width: 75%;
+}/*# sourceMappingURL=info.css.map */
