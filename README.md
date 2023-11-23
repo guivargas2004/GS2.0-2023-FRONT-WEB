@@ -1,3 +1,29 @@
+
+Guilherme Faustino Vargas RM98278
+
+
+
+
+Rodar no terminal:
+npm i
+npm run backend
+npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
